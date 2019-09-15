@@ -14,6 +14,10 @@ public class GitPrueba11 {
         
         mR.ciclo(0);
         
+        System.out.println("\nFuncion Fubonacci");
+        
+        System.out.println("\nFuncion Arreglo");
+        
   
     }
     
